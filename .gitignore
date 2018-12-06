@@ -1,0 +1,8 @@
+
+/vendor/*
+
+/src/.env
+/src/monoTest.php
+/src/*.sql
+
+/src/log/*
